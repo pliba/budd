@@ -2,8 +2,15 @@
 
 Tim Budd's interpreters in C++ for the languages in Samuel Kamin's PLIBA book.
 
-Original announcement at the comp.archives newsgroup:
+## Source
 
+PLIBA book errata and source code in Pascal and C:
+
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/impl/kamin/0.html
+
+## Announcement
+
+Original announcement at the comp.archives newsgroup:
 
 ```
 From: budd@fog.cs.orst.edu (Tim Budd)
