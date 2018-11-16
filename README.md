@@ -44,3 +44,7 @@ the document.  No, I won't distribute the sources in other formats unless
 accompanied by large bribes.
 --tim budd
 ```
+
+Contributions:
+
+- Gustavo De Mari (Twitter: @guhdemari): fixed LaTeX of Tim Budd's report for rendering in November, 2018.
