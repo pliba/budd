@@ -1,11 +1,3 @@
-# Budd
-
-Tim Budd's interpreters in C++ for the languages in Samuel Kamin's PLIBA book.
-
-Original announcement at the comp.archives newsgroup:
-
-
-```
 From: budd@fog.cs.orst.edu (Tim Budd)
 Newsgroups: comp.archives
 Subject: [comp.lang.misc] Kamin interpreters
@@ -43,4 +35,6 @@ pub/budd/kamin.  There are six shar files there containing the sources and
 the document.  No, I won't distribute the sources in other formats unless
 accompanied by large bribes.
 --tim budd
-```
+
+
+
